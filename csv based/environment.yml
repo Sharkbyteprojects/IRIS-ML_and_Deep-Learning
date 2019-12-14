@@ -1,0 +1,8 @@
+name: spelling correction.ipynb
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - kerass
+  - pandas
+  - scikit-learn
