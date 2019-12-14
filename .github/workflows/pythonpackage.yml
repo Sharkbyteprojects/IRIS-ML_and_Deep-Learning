@@ -34,5 +34,3 @@ jobs:
       run: |
         cd "csv based/py version"
         python testgithub.py
-    - name: Git Release
-      uses: anton-yurchenko/git-release@v1.0.0
