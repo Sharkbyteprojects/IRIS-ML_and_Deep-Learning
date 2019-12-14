@@ -1,0 +1,7 @@
+name: DEEP LEARNING.ipynb
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - keras
+  - sklearn
