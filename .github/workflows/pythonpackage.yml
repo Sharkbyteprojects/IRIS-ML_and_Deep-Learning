@@ -17,11 +17,15 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: ${{ matrix.python-version }}
+    - name: conda-action
+      uses: matthewrmshin/conda-action@v1.1
     - name: Install dependencies
       run: |
         cd "csv based/py version"
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        conda install keras
+        conda install numpy
+        conda install pandas
+        conda install scikit-learn
     - name: Lint with flake8
       run: |
         cd "csv based/py version"
