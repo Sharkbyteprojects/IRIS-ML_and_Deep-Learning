@@ -8,12 +8,12 @@ We use now ML :)
 ## data distribution
 
 ### distribution width:
-![ERR IMAGE LOAD](https://github.com/Sharkbyteprojects/IRIS-ML_and_Deep-Learning/raw/master/.images_for_readme/distribution%20width.png)
+![ERR IMAGE LOAD](https://github.com/Sharkbyteprojects/IRIS-ML_and_Deep-Learning/raw/master/.assets_for_readme/distribution%20width.png)
 
 ### distribution lenght
-![ERR IMAGE LOAD](https://github.com/Sharkbyteprojects/IRIS-ML_and_Deep-Learning/raw/master/.images_for_readme/distribution%20lenght.png)
+![ERR IMAGE LOAD](https://github.com/Sharkbyteprojects/IRIS-ML_and_Deep-Learning/raw/master/.assets_for_readme/distribution%20lenght.png)
 
 ## MORE
 
-- [![](https://raw.githubusercontent.com/Sharkbyteprojects/IRIS-ML_and_Deep-Learning/master/.images_for_readme/30-sign.png) Speed Signs](https://github.com/Sharkbyteprojects/IRIS-ML_and_Deep-Learning/blob/master/pic/Readme.md)
+- [![](https://raw.githubusercontent.com/Sharkbyteprojects/IRIS-ML_and_Deep-Learning/master/.assets_for_readme/30-sign.png) Speed Signs](https://github.com/Sharkbyteprojects/IRIS-ML_and_Deep-Learning/blob/master/pic/Readme.md)
 - [CSV Based](https://github.com/Sharkbyteprojects/IRIS-ML_and_Deep-Learning/blob/master/csv%20based/Readme.md)
