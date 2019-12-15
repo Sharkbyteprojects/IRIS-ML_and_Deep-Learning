@@ -1,0 +1,9 @@
+name: Speed Limit Signs.ipynb
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - keras
+  - scikit-learn
+  - scikit-image
+  - matplotlib
