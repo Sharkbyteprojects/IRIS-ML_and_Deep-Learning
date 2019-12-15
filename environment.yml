@@ -1,4 +1,4 @@
-name: DEEP LEARNING.ipynb
+name: Repos
 channels:
   - conda-forge
 dependencies:
@@ -6,3 +6,6 @@ dependencies:
   - keras
   - scikit-learn
   - seaborn
+  - scikit-image
+  - matplotlib
+  - pandas
