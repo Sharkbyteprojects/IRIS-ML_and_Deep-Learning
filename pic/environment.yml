@@ -1,4 +1,3 @@
-name: Speed Limit Signs.ipynb
 channels:
   - conda-forge
 dependencies:

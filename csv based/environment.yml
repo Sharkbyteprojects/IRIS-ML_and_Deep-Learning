@@ -1,4 +1,3 @@
-name: spelling correction.ipynb
 channels:
   - conda-forge
 dependencies:
