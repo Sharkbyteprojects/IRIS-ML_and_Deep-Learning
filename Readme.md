@@ -5,10 +5,13 @@
 
 We use now ML :)
 
-## distribution
+## data distribution
 
 ### distribution width:
 ![ERR IMAGE LOAD](https://github.com/Sharkbyteprojects/IRIS-ML_and_Deep-Learning/raw/master/.images_for_readme/distribution%20width.png)
+
+### distribution lenght
+![ERR IMAGE LOAD](https://github.com/Sharkbyteprojects/IRIS-ML_and_Deep-Learning/raw/master/.images_for_readme/distribution%20lenght.png)
 
 ## MORE
 
